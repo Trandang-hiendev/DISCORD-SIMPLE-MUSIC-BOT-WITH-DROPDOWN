@@ -1,0 +1,12 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit:v7-20240319-38caddd","time":"2024-03-20T14:34:46Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .local/share/rippkgs-index.sqlite","time":"2024-03-20T14:34:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/he","time":"2024-03-20T14:34:54Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/html-to-text","time":"2024-03-20T14:34:54Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/lyrics-finder","time":"2024-03-20T14:34:54Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2024-03-20T14:34:54Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/semver","time":"2024-03-20T14:34:54Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/sshpk-conv","time":"2024-03-20T14:34:54Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/sshpk-sign","time":"2024-03-20T14:34:54Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/sshpk-verify","time":"2024-03-20T14:34:54Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/systeminformation","time":"2024-03-20T14:34:54Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/uuid","time":"2024-03-20T14:34:54Z"}
