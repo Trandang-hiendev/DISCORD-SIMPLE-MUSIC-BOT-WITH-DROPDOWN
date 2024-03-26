@@ -117,7 +117,7 @@ client.emoji = require("./utils/emoji.json");
 
 require("./handler/Client")(client);
 
-client.login(bot_token);
+client.login(process.env.bot_token);
 
 const web = new WebhookClient({ url: bot_error }); 
 
