@@ -5,11 +5,11 @@
   "ownerID": [
     ""
   ],
-  "SpotifyID": "e6f84fbec2b44a77bf35a20c5ffa54b8",
-  "SpotifySecret": "498f461b962443cfaf9539c610e2ea81",
+  "SpotifyID": "d4ba8f36fe9c433a8d4daa9468479828",
+  "SpotifySecret": "1b587c9a2ee24e6f91663a4215f2180e ",
   "mongourl": "mongodb+srv://pee33:wnn99e@cluster0.fgivnid.mongodb.net/?retryWrites=true&w=majority",
   "embedColor": "#f6ff00",
-  "logs1": "",
+  "logs1": "1221700889115623464",
   "logs": "",
   "logs2": "",
   "nodes": {
